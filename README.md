@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jacobpark1127/jacobpark1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# JongBin Park
+
+**Seoul National University of Science and Technology (Computer Science and Engineering)**
+
+## Interest
+
+**AI, Robotics**
